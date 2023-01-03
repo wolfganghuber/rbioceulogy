@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 
+      url: 'https://quartopub.com/sites/huber/townhouse-vs-privateisland'
